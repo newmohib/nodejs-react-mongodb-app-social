@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://mohib:@@mohib100@@@cluster0-0i4aa.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
