@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# nodejs-react-mongodb-app-social 2
 
 > Social network for developers
 
